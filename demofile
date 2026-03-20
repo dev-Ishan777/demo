@@ -1,0 +1,4 @@
+{{ $('Creating Container ID').item.json.id }}
+
+
+{{ $json.id }}
